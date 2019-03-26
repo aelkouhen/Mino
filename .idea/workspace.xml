@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8691903-d4f5-42b4-b6b7-c9137ba107ff" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lyne" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-997881298">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="adoc" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="gradle" value="4" />
+          <entry key="gradlew" value="1" />
+          <entry key="java" value="8" />
+          <entry key="md" value="2" />
+          <entry key="properties" value="7" />
+          <entry key="sbt" value="5" />
+          <entry key="scala" value="403" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="AsciiDoc" value="1" />
+          <entry key="Bash" value="1" />
+          <entry key="Groovy" value="4" />
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="7" />
+          <entry key="Scala" value="403" />
+          <entry key="sbt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="2" />
+          <entry key="gradle" value="15" />
+          <entry key="properties" value="95" />
+          <entry key="sbt" value="21" />
+          <entry key="scala" value="6003" />
+          <entry key="txt" value="163" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="15" />
+          <entry key="PLAIN_TEXT" value="165" />
+          <entry key="Properties" value="95" />
+          <entry key="Scala" value="6003" />
+          <entry key="sbt" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1024212636">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="77" />
+          <entry key="project.open.time.0" value="48" />
+          <entry key="project.open.time.1" value="18" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="3" />
+          <entry key="adoc" value="2" />
+          <entry key="bat" value="1" />
+          <entry key="class" value="3" />
+          <entry key="gradle" value="18" />
+          <entry key="history" value="1" />
+          <entry key="java" value="50" />
+          <entry key="old" value="1" />
+          <entry key="out" value="1" />
+          <entry key="properties" value="34" />
+          <entry key="sbt" value="10" />
+          <entry key="scala" value="1284" />
+          <entry key="yml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="AsciiDoc" value="2" />
+          <entry key="CLASS" value="3" />
+          <entry key="Dockerfile" value="3" />
+          <entry key="Groovy" value="18" />
+          <entry key="JAVA" value="50" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="34" />
+          <entry key="Scala" value="1284" />
+          <entry key="YAML" value="11" />
+          <entry key="sbt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="20" />
+          <entry key="adoc" value="2" />
+          <entry key="dummy" value="14" />
+          <entry key="gradle" value="118" />
+          <entry key="java" value="185" />
+          <entry key="properties" value="357" />
+          <entry key="sbt" value="29" />
+          <entry key="scala" value="28470" />
+          <entry key="txt" value="1373" />
+          <entry key="yml" value="164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="AsciiDoc" value="2" />
+          <entry key="Dockerfile" value="20" />
+          <entry key="Groovy" value="118" />
+          <entry key="JAVA" value="185" />
+          <entry key="PLAIN_TEXT" value="1387" />
+          <entry key="Properties" value="357" />
+          <entry key="Scala" value="28470" />
+          <entry key="YAML" value="164" />
+          <entry key="sbt" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1052972158">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="adoc" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="gradle" value="2" />
+          <entry key="properties" value="5" />
+          <entry key="scala" value="30" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="AsciiDoc" value="1" />
+          <entry key="Dockerfile" value="1" />
+          <entry key="Groovy" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="5" />
+          <entry key="Scala" value="30" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="6" />
+          <entry key="adoc" value="4" />
+          <entry key="gradle" value="4" />
+          <entry key="properties" value="27" />
+          <entry key="scala" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="AsciiDoc" value="4" />
+          <entry key="Dockerfile" value="6" />
+          <entry key="Groovy" value="4" />
+          <entry key="Properties" value="27" />
+          <entry key="Scala" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.adoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="6" selection-start-column="6" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Trait" />
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>car.id</find>
+      <find>updateCarDragCoefficient</find>
+      <find>CarEngine</find>
+      <find>updateCarEn</find>
+      <find>updateCarEngine</find>
+      <find>updateCarFrontOver</find>
+      <find>updateCarSer</find>
+      <find>updateCarTire</find>
+      <find>engine.id</find>
+      <find>make</find>
+      <find>file.id</find>
+      <find>Update</find>
+      <find>make : Make</find>
+      <find>model : Model</find>
+      <find>photo : Photo</find>
+      <find>serie : Serie</find>
+      <find>Photo</find>
+      <find>File</find>
+      <find>file</find>
+      <find>Long</find>
+      <find>UUID</find>
+      <find>id</find>
+      <find>, example = &quot;1&quot;</find>
+      <find>examp</find>
+      <find>example</find>
+      <find>tong</find>
+      <find>userTokenConverter</find>
+      <find>hasRole('READ_PRIVILEGE')</find>
+      <find>hasRole('WRITE_PRIVILEGE')</find>
+      <find>securityInfo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>carId : Long</replace>
+      <replace>carId</replace>
+      <replace>engineId</replace>
+      <replace>fileId</replace>
+      <replace>update</replace>
+      <replace>makeId : Long</replace>
+      <replace>modelId : Long</replace>
+      <replace>photoId : Long</replace>
+      <replace>serieId: Long</replace>
+      <replace>photo</replace>
+      <replace>Video</replace>
+      <replace>Resource</replace>
+      <replace>resource</replace>
+      <replace>UUID</replace>
+      <replace>String</replace>
+      <replace>#oauth2.hasScope('READ_PRIVILEGE')</replace>
+      <replace>#oauth2.hasScope('UPDATE_PRIVILEGE')</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5.2.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Mino" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Mino" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Mino'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Mino'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Mino'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Scaladoc for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scaladoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Mino'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4660832620000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="4019414973" />
+        <entry key="$PROJECT_DIR$/build2.gradle" value="4178042656" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="408007245" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.3.RELEASE/1d636167a0afc54a971fefdecf752c6dc9a6ca35/spring-boot-gradle-plugin-2.1.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.3.RELEASE/f41963116aaf7f8a2518da01aa6f475e5c0a02f6/spring-boot-loader-tools-2.1.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/d6c42859b24b62034b2a5e0db5ea12c688493d48/dependency-management-plugin-1.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.5.RELEASE/407c8f57c15605a13c76a869357181825a7a5db1/spring-core-5.1.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/a25b942b99fde2cc2913ab39ad34abc0df4f5eb9/commons-compress-1.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.5.RELEASE/6f3212c91ac78f8cc4bcaf600f624f92a6287ca6/spring-jcl-5.1.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.3.RELEASE/6e5fba2632bf299b4c28a1c272ef3fa4533e8f7f/spring-boot-gradle-plugin-2.1.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.3.RELEASE/78b1832575cecda34bbf919641b9b00705b07265/spring-boot-loader-tools-2.1.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.5.RELEASE/aacc4555108f3da913a58114b2aebc819f58cce4/spring-core-5.1.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5/commons-compress-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.5.RELEASE/5cbd44d11a031c64c788edf1f99706b31c434469/spring-jcl-5.1.5.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Mino" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/snapshots" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/docs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/execution" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/files" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-profile" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/tooling-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-cache-packaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-model-core-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-kotlin-dsl-1.1.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-core-api-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-persistent-cache-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-files-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-execution-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-build-option-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-cli-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-resources-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-core-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-api-metadata-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/ant-1.9.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-base-services-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-kotlin-dsl-tooling-models-1.1.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/ant-launcher-1.9.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-build-cache-packaging-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-logging-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-runtime-api-info-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-base-services-groovy-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-launcher-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-installation-beacon-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-jvm-services-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-snapshots-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-native-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-process-services-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-kotlin-dsl-tooling-builders-1.1.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-docs-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-tooling-api-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-messaging-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-build-cache-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-wrapper-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-model-groovy-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/gradle-kotlin-dsl-provider-plugins-1.1.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-plugin-development-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-diagnostics-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-dependency-management-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-antlr-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-language-groovy-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-scala-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-reporting-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-resources-gcs-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-resources-sftp-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-platform-base-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-language-java-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-testing-native-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-ide-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-platform-native-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-ivy-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-build-init-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-testing-jvm-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-build-cache-http-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-resources-http-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-testing-base-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-version-control-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-announce-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-plugin-use-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-language-jvm-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-composite-builds-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-ide-native-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-javascript-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-platform-jvm-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-workers-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-jacoco-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-testing-junit-platform-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/ivy-2.3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-ear-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-ide-play-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-resources-s3-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-maven-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-code-quality-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-build-comparison-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-publish-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-tooling-native-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-tooling-api-builders-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-platform-play-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-language-native-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-build-profile-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-language-scala-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-plugins-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-osgi-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-test-kit-5.2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1-all/bviwmvmbexq6idcscbicws5me/gradle-5.2.1/lib/plugins/gradle-signing-5.2.1.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/config/WebMvcConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/config/WebSecurityConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/config/SpringBootConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/WebMvcConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/CarCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/EngineCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/FileCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/MakeCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/ModelCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/PhotoCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/SerieCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command/VideoCommandRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/WebSecurityConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/services/command/FileCommandService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/services/command/PhotoCommandService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/services/command/VideoCommandService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/CarQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/EngineQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/FileQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/MakeQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/ModelQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/PhotoQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/ResourceQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/SerieQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/query/VideoQueryRestController.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/ResourceServerConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/Application.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/LyneRibbonConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Engine.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/File.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Make.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Model.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Motorcycle.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/MotorizedBicycle.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Photo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Resource.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Vehicle.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Video.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Car.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Serie.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/domain/Bus.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/AutoInitialDataLoader.scala" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/SwaggerConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/SpringBootConfig.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/query/PhotoQueryService.scala" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/README.adoc" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mino" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TF_FMT" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553611116209" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.carhub.api.auto.config" />
+      <recent name="com.carhub.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gradle/wrapper" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/controllers/command" />
+      <recent name="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/services/command" />
+      <recent name="$PROJECT_DIR$/src/main/scala/com/carhub/api/auto/model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.carhub.api" />
+      <recent name="com.carhub.api.auto.utils.exception" />
+      <recent name="com.carhub.api.auto.services.command" />
+      <recent name="com.carhub.api.auto.controllers.command" />
+      <recent name="com.carhub.api.auto.utils.enumeration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/libs" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3815882349" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="849776675" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8691903-d4f5-42b4-b6b7-c9137ba107ff" name="Default Changelist" comment="" />
+      <created>1548147731856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548147731856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix Topic's inheritance">
+      <created>1548345042530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548345042530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor InitDataLoader">
+      <created>1548770987638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548770987638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Vehicle schema">
+      <created>1549035591197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549035591197</updated>
+    </task>
+    <task id="LOCAL-00007" summary="missing fields + refactoring">
+      <created>1549640383171</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549640383171</updated>
+    </task>
+    <task id="LOCAL-00008" summary="missing fields + refactoring">
+      <created>1549881874902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549881874902</updated>
+    </task>
+    <task id="LOCAL-00009" summary="wrong url">
+      <created>1549882352756</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549882352756</updated>
+    </task>
+    <task id="LOCAL-00010" summary="enabling Eureka Discovery">
+      <created>1549887645028</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1549887645028</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update Dockerfile">
+      <created>1549888216217</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549888216217</updated>
+    </task>
+    <task id="LOCAL-00012" summary="split service into CQRS schema">
+      <created>1550502134856</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550502134856</updated>
+    </task>
+    <task id="LOCAL-00013" summary="adding @Transactional annotation to command services because of LazyInitializationException&#10;&#10;adding @Transactional (readOnly = true) annotation to query services">
+      <created>1550505414183</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1550505414183</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding updateCar* methods">
+      <created>1550571824974</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1550571824974</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding controllers">
+      <created>1550592653113</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1550592653113</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Checking query controllers">
+      <created>1550677734982</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1550677734982</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Error Handling">
+      <created>1550744731027</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1550744731027</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Error Handling for generic beans">
+      <created>1550754367495</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550754367495</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Adding Swagger2 documentation">
+      <created>1550761113750</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1550761113750</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Adding create Car post request">
+      <created>1550765040824</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1550765040824</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Adding Serializer / deserializer for Enumerations">
+      <created>1550841503383</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1550841503383</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Remove WebConfig support">
+      <created>1550841778895</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1550841778895</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Using Json(De)Serializer instead of Std(De)Serializer">
+      <created>1550843444522</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1550843444522</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Adding Update methods for Car">
+      <created>1551090158343</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1551090158343</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Adding Update methods for Car">
+      <created>1551109590297</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1551109590297</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adding Update methods for Car Queries/Commands Controllers">
+      <created>1551181592201</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1551181592201</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Customize the Swagger description">
+      <created>1551186491716</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1551186491716</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Adding Update methods for Engine Commands Controllers">
+      <created>1551191569332</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1551191569332</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adding Update methods for File Commands Controllers">
+      <created>1551196482535</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1551196482535</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Adding Update methods for Make Commands Controllers">
+      <created>1551354213811</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1551354213811</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adding Update methods for Model Commands Controllers">
+      <created>1551365847661</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1551365847661</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Adding Update methods for Photo Commands Controllers">
+      <created>1551367211056</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1551367211056</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Adding Update methods for Video Commands Controllers">
+      <created>1551367831492</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1551367831492</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update size, name, format and dimensions when content is updated">
+      <created>1551368528166</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1551368528166</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Adding Update methods for Serie Commands Controllers">
+      <created>1551436878939</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1551436878939</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Adding mime type">
+      <created>1551695433924</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1551695433924</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update swagger file">
+      <created>1551873864575</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1551873864575</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Upgrade Spring boot version / Gradle&#10;Replace Long Ids by UUID&#10;Refactoring and misc.">
+      <created>1551969959339</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1551969959339</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Enhance password encoder">
+      <created>1552089095634</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1552089095634</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Adding OAuth Resource Server Security - JWT with keypair">
+      <created>1552090535628</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1552090535628</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update PreAuthorize statements for controllers">
+      <created>1552092247610</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1552092247610</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Replace Scala Enum by Java Enumerations">
+      <created>1552477503109</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1552477503109</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Insert Jwt token in Swagger UI">
+      <created>1552483007307</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1552483007307</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Controllers Paths Refactoring &#10;+&#10;Orphans removal from Vehicle">
+      <created>1552561419678</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1552561419678</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Rename file">
+      <created>1552652548380</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1552652548380</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Refactoring API path (context-path)">
+      <created>1552924308822</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1552924308822</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Sending Blob content in resource entity">
+      <created>1553270235122</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1553270235122</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Remove authorization for reading content">
+      <created>1553503509469</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1553503509469</updated>
+    </task>
+    <task id="LOCAL-00049" summary="get Auth service from the load balancer">
+      <created>1553513026461</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1553513026461</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Refactoring dockerfile">
+      <created>1553517965540</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1553517965547</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Refactoring gradle file">
+      <created>1553523140123</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1553523140123</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Remove json (de)serializer &amp; enum utils">
+      <created>1553527135850</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1553527135850</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
+    <option name="searchClosedTasks" value="true" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51544195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840257" visible="true" weight="0.37326732" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946752" visible="true" weight="0.32871288" />
+      <window_info anchor="bottom" id="SBT Console" order="8" weight="0.32970297" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50159746" side_tool="true" weight="0.38217822" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" sideWeight="0.49893504" weight="0.26732674" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49946752" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Update methods for Engine Commands Controllers" />
+    <MESSAGE value="Adding Update methods for File Commands Controllers" />
+    <MESSAGE value="Adding Update methods for Make Commands Controllers" />
+    <MESSAGE value="Adding Update methods for Model Commands Controllers" />
+    <MESSAGE value="Adding Update methods for Photo Commands Controllers" />
+    <MESSAGE value="Adding Update methods for Video Commands Controllers" />
+    <MESSAGE value="Update size, name, format and dimensions when content is updated" />
+    <MESSAGE value="Adding Update methods for Serie Commands Controllers" />
+    <MESSAGE value="Adding mime type" />
+    <MESSAGE value="update swagger file" />
+    <MESSAGE value="Upgrade Spring boot version / Gradle&#10;Replace Long Ids by UUID&#10;Refactoring and misc." />
+    <MESSAGE value="Enhance password encoder" />
+    <MESSAGE value="Adding OAuth Resource Server Security - JWT with keypair" />
+    <MESSAGE value="Update PreAuthorize statements for controllers" />
+    <MESSAGE value="Replace Scala Enum by Java Enumerations" />
+    <MESSAGE value="Insert Jwt token in Swagger UI" />
+    <MESSAGE value="Controllers Paths Refactoring &#10;+&#10;Orphans removal from Vehicle" />
+    <MESSAGE value="Rename file" />
+    <MESSAGE value="Refactoring API path (context-path)" />
+    <MESSAGE value="Sending Blob content in resource entity" />
+    <MESSAGE value="Remove authorization for reading content" />
+    <MESSAGE value="get Auth service from the load balancer" />
+    <MESSAGE value="Refactoring dockerfile" />
+    <MESSAGE value="Refactoring gradle file" />
+    <MESSAGE value="Remove json (de)serializer &amp; enum utils" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove json (de)serializer &amp; enum utils" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/query/ResourceQueryRestController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          <folding>
+            <element signature="e#47#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/query/SerieQueryRestController.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/query/ModelQueryRestController.scala" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/61b9fc39f57913d92031edeb9caca4c9dfcde5b/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1017">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/LyneRibbonConfig.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/Application.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Vehicle.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Serie.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Engine.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Car.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Bus.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/MotorizedBicycle.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Motorcycle.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Model.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Make.scala" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/SwaggerConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/WebSecurityConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/SpringSecurityConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/SpringBootConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding>
+            <element signature="e#24#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/ResourceServerConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#24#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/query/FileQueryRestController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/command/VideoCommandRestController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#50#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/repositories/PhotoRepository.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/File.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Resource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Video.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/domain/Photo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/query/VideoQueryRestController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/controllers/command/FileCommandRestController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/command/FileCommandService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/command/PhotoCommandService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/AutoInitialDataLoader.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/utils/exception/ApiError.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/WebMvcConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/vcs-1/gc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/utils/exception/ApiErrorHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/command/VideoCommandService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/query/FileQueryService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/query/PhotoQueryService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/query/ResourceQueryService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#45#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/carhub/api/media/services/query/VideoQueryService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#45#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|Mino</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: org.springframework.boot:spring-boot:1.5.3.RELEASE:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

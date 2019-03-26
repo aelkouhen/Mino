@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mino.iml" filepath="$PROJECT_DIR$/.idea/Mino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mino_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mino_main.iml" group="Mino" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mino_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mino_test.iml" group="Mino" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+security:
+  oauth2:
+    resource:
+      token-type: Bearer
+      client:
+        client-id: CLIENT_APP
+        client-secret: password
+      id: CLIENT_RESOURCE
+      jwt:
+        key-value: |
+          -----BEGIN PUBLIC KEY-----
+          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzKOkPFC8hoRExHRtkXUK
+          qI1jKU1T0Dr+ReoD6F76w2ZqcvFgqGOOUa+zmXiHCVRNGFVLpIkWYUaulY0r3Nf1
+          9hRbISu/jn51D4cJcIgldlY99QT3oEH9w1M1y8WvFL8wufIaPcn8w05EVLrKtkfO
+          wCb45jwbsW2/QcTQXmSXUV6tD+38DEIUDSAyahw1Vd2ZiPLyhHsQQzCQP5uQ+rur
+          2qnPz3qBpWn0aNsA+xCtyeMr8VIss+uo1BFE3BEzBT6N7nvGxLCYrLGDzO3JQIY1
+          XtDw668XgC/Ft/9WmxpC72txfceocep95L5cd1eKTSwA0fhQJfD3P4PEMtmqzK7E
+          iwIDAQAB
+          -----END PUBLIC KEY-----
+
+eureka:
+  instance:
+    hostname: localhost
+    port: 8000
+    instanceId: ${spring.application.name}:${random.int}
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${eureka.instance.port}/eureka/
+    healthcheck:
+      enabled: true
+  server:
+    wait-time-in-ms-when-sync-empty: 3000
+
+oauth2:
+  service:
+    name: mima
+  token-check-path: auth/oauth/check_token
+  auth-server-uri: http://localhost:9000/

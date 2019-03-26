@@ -1,0 +1,54 @@
+plugins {
+	id 'org.springframework.boot' version '2.1.3.RELEASE'
+}
+
+apply plugin: 'java'
+apply plugin: 'scala'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+sourceCompatibility = '1.8'
+
+repositories {
+	mavenCentral()
+	maven { url 'https://repo.spring.io/milestone' }
+}
+
+ext {
+	set('springCloudVersion', 'Greenwich.RELEASE')
+}
+
+jar{
+    archiveName 'Mino.jar'
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
+	implementation 'org.springframework.cloud:spring-cloud-starter-security'
+	implementation 'org.springframework.cloud:spring-cloud-starter-oauth2'
+	implementation 'org.springframework.cloud:spring-cloud-starter-eureka:1.4.6.RELEASE'
+	implementation 'io.springfox:springfox-bean-validators:2.9.2'
+	implementation 'org.scala-lang:scala-library'
+	implementation 'com.typesafe.scala-logging:scala-logging_2.12:3.9.0'
+	implementation 'com.google.guava:guava:27.0.1-jre'
+	implementation 'io.springfox:springfox-swagger2:2.9.2'
+	implementation 'io.springfox:springfox-swagger-ui:2.9.2'
+	implementation 'com.fasterxml.jackson.core:jackson-core:2.9.8'
+	implementation 'com.fasterxml.jackson.module:jackson-module-scala_2.12:2.9.8'
+    runtimeOnly 'mysql:mysql-connector-java'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testImplementation 'org.springframework.security:spring-security-test'
+
+}
+
+dependencyManagement {
+	imports {
+		mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+	}
+}
